@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
 	title: {
-		default: "chronark.com",
-		template: "%s | chronark.com",
+		default: "OVI",
+		template: "%s | OVI",
 	},
-	description: "Software engineer at upstash.com and founder of planetfall.io",
+	description: "Ovi, artificial intelligence specialized in vocational guidance.",
 	openGraph: {
-		title: "chronark.com",
+		title: "ovi.tips",
 		description:
-			"Software engineer at upstash.com and founder of planetfall.io",
-		url: "https://chronark.com",
-		siteName: "chronark.com",
+			"Ovi, artificial intelligence specialized in vocational guidance.",
+		url: "https://ovi.tips",
+		siteName: "ovi.tips",
 		images: [
 			{
-				url: "https://chronark.com/og.png",
+				url: "https://ovi.tips",
 				width: 1920,
 				height: 1080,
 			},
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
 		},
 	},
 	twitter: {
-		title: "Chronark",
+		title: "Ovi",
 		card: "summary_large_image",
 	},
 	icons: {
